@@ -1,6 +1,6 @@
 # ETHbase, directx imgui drawlist nativeui style
 
-please checkout: [ethereal crack]https://github.com/EinTim23/ethereal-crack/blob/master/README.md for background info regarding this release 
+please checkout: [ethereal crack](https://github.com/EinTim23/ethereal-crack/blob/master/README.md) for background info regarding this release 
 
 the maintained menu that encourages community contributions can be found [here]https://github.com/sinfail/Windbreaker
 
